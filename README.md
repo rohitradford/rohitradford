@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on **Python**
 - 🤔 I’m looking for help with **React libraries**
 - 💬 Ask me about **anything**
-- 📫 How to reach me: **rohitradford306@gmail.com**
+- 📫 How to reach me: **rohit.rk.kumar306@gmail.com**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **Just Graduated**
